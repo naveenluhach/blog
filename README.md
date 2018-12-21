@@ -1,2 +1,2 @@
 # blog
-blog post in Symfony
+blog post for Java
