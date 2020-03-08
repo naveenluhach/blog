@@ -1,2 +1,1 @@
-# blog
-blog post for Java
+#java notebook
